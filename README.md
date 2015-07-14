@@ -1,2 +1,2 @@
 # miniz-bench
-Compare "deflate" execution time between gcc and clang/llvm binaries.
+Compare "deflate" execution time between gcc and llvm/clang binaries.
